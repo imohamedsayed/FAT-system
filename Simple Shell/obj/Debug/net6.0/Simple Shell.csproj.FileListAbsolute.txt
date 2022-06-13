@@ -1,0 +1,45 @@
+C:\Users\Dell\Desktop\Simple Shell\Simple Shell\bin\Debug\net6.0\Simple Shell.exe
+C:\Users\Dell\Desktop\Simple Shell\Simple Shell\bin\Debug\net6.0\Simple Shell.deps.json
+C:\Users\Dell\Desktop\Simple Shell\Simple Shell\bin\Debug\net6.0\Simple Shell.runtimeconfig.json
+C:\Users\Dell\Desktop\Simple Shell\Simple Shell\bin\Debug\net6.0\Simple Shell.dll
+C:\Users\Dell\Desktop\Simple Shell\Simple Shell\bin\Debug\net6.0\Simple Shell.pdb
+C:\Users\Dell\Desktop\Simple Shell\Simple Shell\obj\Debug\net6.0\Simple Shell.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Simple Shell\Simple Shell\obj\Debug\net6.0\Simple Shell.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\Simple Shell\Simple Shell\obj\Debug\net6.0\Simple Shell.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Simple Shell\Simple Shell\obj\Debug\net6.0\Simple Shell.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Simple Shell\Simple Shell\obj\Debug\net6.0\Simple Shell.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Simple Shell\Simple Shell\obj\Debug\net6.0\Simple Shell.dll
+C:\Users\Dell\Desktop\Simple Shell\Simple Shell\obj\Debug\net6.0\refint\Simple Shell.dll
+C:\Users\Dell\Desktop\Simple Shell\Simple Shell\obj\Debug\net6.0\Simple Shell.pdb
+C:\Users\Dell\Desktop\Simple Shell\Simple Shell\obj\Debug\net6.0\Simple Shell.genruntimeconfig.cache
+C:\Users\Dell\Desktop\Simple Shell\Simple Shell\obj\Debug\net6.0\ref\Simple Shell.dll
+C:\Users\Inspiron_5587G5\source\repos\Simple Shell\Simple Shell\bin\Debug\net6.0\Simple Shell.exe
+C:\Users\Inspiron_5587G5\source\repos\Simple Shell\Simple Shell\bin\Debug\net6.0\Simple Shell.deps.json
+C:\Users\Inspiron_5587G5\source\repos\Simple Shell\Simple Shell\bin\Debug\net6.0\Simple Shell.runtimeconfig.json
+C:\Users\Inspiron_5587G5\source\repos\Simple Shell\Simple Shell\bin\Debug\net6.0\Simple Shell.dll
+C:\Users\Inspiron_5587G5\source\repos\Simple Shell\Simple Shell\bin\Debug\net6.0\Simple Shell.pdb
+C:\Users\Inspiron_5587G5\source\repos\Simple Shell\Simple Shell\obj\Debug\net6.0\Simple Shell.csproj.AssemblyReference.cache
+C:\Users\Inspiron_5587G5\source\repos\Simple Shell\Simple Shell\obj\Debug\net6.0\Simple Shell.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inspiron_5587G5\source\repos\Simple Shell\Simple Shell\obj\Debug\net6.0\Simple Shell.AssemblyInfoInputs.cache
+C:\Users\Inspiron_5587G5\source\repos\Simple Shell\Simple Shell\obj\Debug\net6.0\Simple Shell.AssemblyInfo.cs
+C:\Users\Inspiron_5587G5\source\repos\Simple Shell\Simple Shell\obj\Debug\net6.0\Simple Shell.csproj.CoreCompileInputs.cache
+C:\Users\Inspiron_5587G5\source\repos\Simple Shell\Simple Shell\obj\Debug\net6.0\Simple Shell.dll
+C:\Users\Inspiron_5587G5\source\repos\Simple Shell\Simple Shell\obj\Debug\net6.0\refint\Simple Shell.dll
+C:\Users\Inspiron_5587G5\source\repos\Simple Shell\Simple Shell\obj\Debug\net6.0\Simple Shell.pdb
+C:\Users\Inspiron_5587G5\source\repos\Simple Shell\Simple Shell\obj\Debug\net6.0\Simple Shell.genruntimeconfig.cache
+C:\Users\Inspiron_5587G5\source\repos\Simple Shell\Simple Shell\obj\Debug\net6.0\ref\Simple Shell.dll
+C:\Users\Dell\Desktop\My Projects\Simple Shell\Simple Shell\bin\Debug\net6.0\Simple Shell.exe
+C:\Users\Dell\Desktop\My Projects\Simple Shell\Simple Shell\bin\Debug\net6.0\Simple Shell.deps.json
+C:\Users\Dell\Desktop\My Projects\Simple Shell\Simple Shell\bin\Debug\net6.0\Simple Shell.runtimeconfig.json
+C:\Users\Dell\Desktop\My Projects\Simple Shell\Simple Shell\bin\Debug\net6.0\Simple Shell.dll
+C:\Users\Dell\Desktop\My Projects\Simple Shell\Simple Shell\bin\Debug\net6.0\Simple Shell.pdb
+C:\Users\Dell\Desktop\My Projects\Simple Shell\Simple Shell\obj\Debug\net6.0\Simple Shell.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\My Projects\Simple Shell\Simple Shell\obj\Debug\net6.0\Simple Shell.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\My Projects\Simple Shell\Simple Shell\obj\Debug\net6.0\Simple Shell.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\My Projects\Simple Shell\Simple Shell\obj\Debug\net6.0\Simple Shell.AssemblyInfo.cs
+C:\Users\Dell\Desktop\My Projects\Simple Shell\Simple Shell\obj\Debug\net6.0\Simple Shell.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\My Projects\Simple Shell\Simple Shell\obj\Debug\net6.0\Simple Shell.dll
+C:\Users\Dell\Desktop\My Projects\Simple Shell\Simple Shell\obj\Debug\net6.0\refint\Simple Shell.dll
+C:\Users\Dell\Desktop\My Projects\Simple Shell\Simple Shell\obj\Debug\net6.0\Simple Shell.pdb
+C:\Users\Dell\Desktop\My Projects\Simple Shell\Simple Shell\obj\Debug\net6.0\Simple Shell.genruntimeconfig.cache
+C:\Users\Dell\Desktop\My Projects\Simple Shell\Simple Shell\obj\Debug\net6.0\ref\Simple Shell.dll
